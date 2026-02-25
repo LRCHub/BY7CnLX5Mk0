@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カートゥーンガール",
+  "base_artist": "Kanaria",
+  "createdAt": "2026-02-25T15:28:28.559080Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カートゥーンガール",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_カートゥーンガール_Kanaria.txt"
+    }
+  ]
+}
